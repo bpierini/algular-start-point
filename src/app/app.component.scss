@@ -1,0 +1,13 @@
+
+.terceira{
+    color: green;
+}
+
+.primeira{
+    .segunda{
+        .terceira{
+            color: red;
+           }
+    }
+}
+
